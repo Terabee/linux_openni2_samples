@@ -1,0 +1,4 @@
+DepthViewer/Bin/*
+DepthViewer/OpenNI2/*
+DepthViewer/OpenNI\.ini
+*.so
