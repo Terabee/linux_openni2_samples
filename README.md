@@ -56,7 +56,7 @@ sudo apt-get install git-core
 Clone the project into the SDK folder.
 
 ```
-git clone https://github.com/Terabee/openni2_linux.git Terabee_samples
+git clone https://github.com/Terabee/linux_openni2_samples.git Terabee_samples
 ```
 
 ### Build Samples
