@@ -6,22 +6,18 @@ For more information about the Terabee 3Dcam 80x60, please click [here](https://
 
 ## System Requirements
 
-* Ubuntu 14.04 or Ubuntu 16.04
+* Ubuntu 16.04 or 18.04
 
 ## Prepare software development environment
 
 ### Install OpenCV
 
-In order to use the SDK, installing OpenCV with the right version is **mandatory**. In the repository are included scripts that will help you install OpenCV on your system. Depending on your OS, you will have to run the relevant script as follows:
+In order to use the SDK, installing OpenCV with the right version is **mandatory**.
 
-* If you are using Ubuntu 16.04, please install OpenCV 3.1.0:
-```
-./install-opencv-3.1.0.sh
-```
-* If you are using Ubuntu 14.04, please install OpenCV 2.4.11:
-```
-./install-opencv-2.4.11.sh
-```
+Please install OpenCV **3.4.1**.
+
+You can find more information on how to do so [here](https://docs.opencv.org/3.4.1/d7/d9f/tutorial_linux_install.html).
+
 
 ### Install USB-1.0 library
 
